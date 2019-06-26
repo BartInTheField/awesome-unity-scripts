@@ -8,6 +8,11 @@ Please make suggestions and contribute! Pull requests should follow the [contrib
 
 - [Awesome Unity](#awesome-unity-scripts)
   - [Editor](#editor)
+  - [Character Controllers](#character-controllers)
 
 ## Editor 
 * [SpritePropertyDrawer](https://github.com/BartInTheField/Unity-SpritePropertyDrawer) - Script that shows the actual sprite in the Unity inspector.
+
+## Character Controllers 
+* [PlayerPlatformerController](https://learn.unity.com/tutorial/live-session-2d-platformer-character-controller#5c7f8528edbc2a002053b695) - A 2D Character Controller specifically for platformers.
+
