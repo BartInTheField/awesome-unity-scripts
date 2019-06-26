@@ -6,7 +6,7 @@ A categorized collection of awesome Unity scripts that help you in your Unity pr
 
 Please make suggestions and contribute! Pull requests should follow the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md).
 
-- [Awesome Unity](#awesome-unity-scripts)
+- [Awesome Unity Scripts](#awesome-unity-scripts)
   - [Editor](#editor)
   - [Character Controllers](#character-controllers)
 
@@ -15,4 +15,7 @@ Please make suggestions and contribute! Pull requests should follow the [contrib
 
 ## Character Controllers 
 * [PlayerPlatformerController](https://learn.unity.com/tutorial/live-session-2d-platformer-character-controller#5c7f8528edbc2a002053b695) - A 2D Character Controller specifically for platformers.
+
+## Utilities
+* [Consolation](https://github.com/mminer/consolation) - Display output from the Debug class in-game.
 
